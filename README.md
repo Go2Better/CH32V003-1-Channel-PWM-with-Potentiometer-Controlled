@@ -1,5 +1,5 @@
 
-I save this Project as a Mounriver Studio Project Template, for easily add into other project.
+I save this Project as a Mounriver Studio Project Template, for easily add into others project.
 
 How to import to your Mounriver :
 
