@@ -1,7 +1,7 @@
 
 I save this Project as a Mounriver Studio Project Template, for easily add into others project.
 
-How to import to your Mounriver :
+How to import to your Mounriver Studio:
 
 First, download this Template (Zip file) and open the Mounriver Studio. 
 - In Mounriver Studio (I use Version: v1.92)
