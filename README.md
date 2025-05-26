@@ -13,6 +13,8 @@ You can create new project of CH32V003 [RISC-V] ... with this template.
  Project: 1 Channel Potentiometer-Controlled PWM
  
  MCU: CH32V003J4M6
+
+https://www.facebook.com/photo/?fbid=9781118921970737&set=pcb.9780600375355925
  
  Description: This program generates a 1kHz Hardware PWM signal on PC4 (TIM1 Channel 4),
  with Duty Cycle controlled by a 10k potentiometer connected to PA1 (ADC Channel 1).
@@ -20,3 +22,4 @@ You can create new project of CH32V003 [RISC-V] ... with this template.
  ADC uses 241-cycle sampling for high accuracy.
 
 I used Grok Ai to created this project.
+
