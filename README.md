@@ -21,5 +21,5 @@ https://www.facebook.com/photo/?fbid=9781142811968348&set=pcb.9780600375355925
  System Clock is set to 48MHz using HSI/2 * 12.
  ADC uses 241-cycle sampling for high accuracy.
 
-I used Grok Ai to created this project.
+I used Grok Ai to create this project.
 
