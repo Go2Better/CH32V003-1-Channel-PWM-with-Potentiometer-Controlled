@@ -14,7 +14,7 @@ You can create new project of CH32V003 [RISC-V] ... with this template.
  
  MCU: CH32V003J4M6
 
-https://github.com/Go2Better/CH32V003-1-Channel-PWM-with-Potentiometer-Controlled/blob/main/1ChannelControllerablePWM.png
+https://raw.githubusercontent.com/Go2Better/CH32V003-1-Channel-PWM-with-Potentiometer-Controlled/refs/heads/main/1ChannelControllerablePWM.png
  
  Description: This program generates a 1kHz Hardware PWM signal on PC4 (TIM1 Channel 4),
  with Duty Cycle controlled by a 10k potentiometer connected to PA1 (ADC Channel 1).
